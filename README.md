@@ -3,4 +3,5 @@ PyGame RPG project for college
 
 A pokémon-like game with (mostly) original graphics.
 
-![saf_screen](https://github.com/Moriarthyy/Shells-and-Fins/assets/100385669/63fb0506-8f38-4087-8bb4-e8992151283c)
+![saf_battleScreen](https://github.com/davileahy/Shells-and-Fins/assets/100385669/b882923d-5a24-4200-959b-58058cdd606b)
+
